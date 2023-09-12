@@ -49,5 +49,8 @@
     background-clip: text;
     text-transform: uppercase;
 }
+@import url(“styles/header.css”);
+@import url(“styles/banner.css”);
+
 
 
