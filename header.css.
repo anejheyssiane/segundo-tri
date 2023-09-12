@@ -1,3 +1,5 @@
+@import url(“styles/header.css”);
+@import url(“styles/banner.css”);
 .lista-menu__titulo,
 .lista-menu__item {
 padding: 1em;
